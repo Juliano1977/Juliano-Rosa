@@ -5,7 +5,6 @@ A criatividade é a inteligência se divertindo!
 
 Olá Sou Juliano Rosa
 Sou estudante na Universidade da Unifebe
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
