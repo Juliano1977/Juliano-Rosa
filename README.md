@@ -12,5 +12,18 @@ Sou estudante na Universidade da Unifebe
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
 
+</body>
+</html>
+</header>
+<nav class="=redes">
+    <ul>
+        <li>
+            <a href="https://www.facebook.com/juliano.rosa.98434997" target="_blank">
+               <img src="img/redes/facebook.png" alt="facebook">
+            </a>
+        </li>
+    </li>
+</a><a href="https://www.instagram.com/?hl=pt-br" target="_blank">
+    <img src="img/redes/instagran.png" alt="instagran">
 
 
