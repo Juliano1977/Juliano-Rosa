@@ -1,4 +1,6 @@
 🎶😁👍 Juliano-Rosa🎶😁👍
+
+
 A criatividade é a inteligência se divertindo!
 
 ![SnoopyPartyGIF (2)](https://github.com/user-attachments/assets/fdb67dfa-d459-4686-a396-85f3075d7083)
