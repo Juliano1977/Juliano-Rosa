@@ -24,6 +24,6 @@ Sou estudante na Universidade da Unifebe
         </li>
     </li>
 </a><a href="(https://www.instagram.com/mensagem_de_vida77/?hl=pt-br)" target="_blank">
-    <img src="img/redes/instagran.png" alt="instagran">
+    <img src="img/redes/instagran" alt="instagran">
 
 
