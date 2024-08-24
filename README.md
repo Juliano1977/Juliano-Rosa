@@ -23,7 +23,7 @@ Sou estudante na Universidade da Unifebe
             </a>
         </li>
     </li>
-</a><a href="https://www.instagram.com/mensagem_de_vida77/?hl=pt-br" target="_blank">
+</a><a href="https://www.instagram.com/jujuliano1977/?next=%2F" target="_blank">
     <img src="img/redes/instagran" alt="instagran">
 
 
